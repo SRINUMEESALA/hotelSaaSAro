@@ -1,0 +1,11 @@
+.home{
+    background-image: url("https://img.freepik.com/premium-photo/couple-near-reception-desk-hotel_93675-24008.jpg?w=4096");
+    background-size: cover;
+    border: none;
+    box-shadow: 0px 5px 0px 5px white, 0px 0px 50px 50px white inset;
+}
+.homeCard{
+    background-color: rgba(255,255,255,0.4);
+    width: 25vw;
+   
+}

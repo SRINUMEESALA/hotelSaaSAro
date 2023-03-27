@@ -1,0 +1,14 @@
+.RoomImage{
+    height: 200px;
+}
+.roomCard{
+    width: 82%;
+    position: relative;
+}
+.premiumCrown{
+    color: gold;
+    font-size: 30px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}

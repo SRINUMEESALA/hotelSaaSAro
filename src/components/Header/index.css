@@ -1,0 +1,22 @@
+
+.navCon {
+
+    width: 95%;
+}
+
+.navListCon {
+    width: 40%;
+}
+
+.HeaderCon {
+    background-color: #1F1F1F;
+}
+
+.routerLinkUnsetStyles {
+    text-decoration: none;
+      
+  }
+  
+  .routerLinkUnsetStyles:hover {
+      text-decoration: none;
+  }
