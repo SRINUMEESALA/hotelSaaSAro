@@ -69,8 +69,8 @@ const Hotels = () => {
 
   const getRoomsList = async () => {
     setRoomsListApiStatus(apiStatusConstants.load);
-    const url = `http://localhost:4000/getHotels?filter=${filter}&&search=${searchInput}`;
-    // const url = "https://ansronebe.onrender.com/products";
+    const url = `https://hotelsaasarobe.onrender.com/getHotels?filter=${filter}&&search=${searchInput}`;
+    // const url = `http://localhost:4000/getHotels?filter=${filter}&&search=${searchInput}`;
     const options = {
       method: "GET",
       headers: {
