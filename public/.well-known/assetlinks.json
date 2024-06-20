@@ -1,0 +1,15 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.orahi.oband",
+      "sha256_cert_fingerprints": [
+        "C7:6F:76:F1:BF:31:EC:4E:43:51:1B:02:24:4C:C6:8F:01:A8:16:BA:BE:C1:63:4A:15:F0:9A:24:20:F9:B5:90",
+        "CC:49:E9:C4:8A:F4:D5:7C:4E:56:86:DC:D2:6C:58:40:B8:62:B6:96:30:FA:D4:2C:A2:BF:D7:67:25:C0:1E:AE",
+        "34:53:25:58:CB:1C:6B:4A:01:60:C8:8E:20:2A:0E:85:F6:1C:78:58:74:12:53:90:2D:13:04:32:CF:EE:D3:9F",
+        "2F:5F:E0:D8:3D:FD:ED:66:52:C2:B1:91:85:55:D3:25:31:AD:0F:7F:D8:0D:66:0F:E5:1E:E2:F1:D0:67:35:C6"
+      ]
+    }
+  }
+]
